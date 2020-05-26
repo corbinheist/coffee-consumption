@@ -1,4 +1,4 @@
-# Coffee-Data-Dictionary
+# Coffee-Data-Notes
 
 ## Coffees
 
